@@ -42,8 +42,8 @@ news-sentiment-app/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/news-sentiment-app.git
-   cd news-sentiment-app
+   git clone https://github.com/Nerd-codeZero/News-Sentiment-App.git
+   cd News-Sentiment-App
    ```
 
 2. Create a virtual environment and activate it:
