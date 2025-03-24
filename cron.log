@@ -1,0 +1,25 @@
+2025-03-22 00:39:51,278 - INFO - News scraper initialized
+2025-03-22 00:39:51,279 - WARNING - No valid Gemini API key provided - using fallback mode
+2025-03-22 00:39:51,279 - INFO - Starting batch processing at 2025-03-22 00:39:51
+2025-03-22 00:39:51,298 - INFO - Found 10 companies to process
+2025-03-22 00:39:51,299 - INFO - Processing company: Apple
+2025-03-22 00:39:51,299 - ERROR - Error processing Apple: 'NewsScraper' object has no attribute 'get_news_articles'
+2025-03-22 00:39:51,299 - INFO - Processing company: Microsoft
+2025-03-22 00:39:51,299 - ERROR - Error processing Microsoft: 'NewsScraper' object has no attribute 'get_news_articles'
+2025-03-22 00:39:51,301 - INFO - Processing company: Google
+2025-03-22 00:39:51,302 - ERROR - Error processing Google: 'NewsScraper' object has no attribute 'get_news_articles'
+2025-03-22 00:39:51,303 - INFO - Processing company: Amazon
+2025-03-22 00:39:51,303 - ERROR - Error processing Amazon: 'NewsScraper' object has no attribute 'get_news_articles'
+2025-03-22 00:39:51,304 - INFO - Processing company: Tesla
+2025-03-22 00:39:51,304 - ERROR - Error processing Tesla: 'NewsScraper' object has no attribute 'get_news_articles'
+2025-03-22 00:39:51,306 - INFO - Processing company: Meta
+2025-03-22 00:39:51,307 - ERROR - Error processing Meta: 'NewsScraper' object has no attribute 'get_news_articles'
+2025-03-22 00:39:51,308 - INFO - Processing company: NVIDIA
+2025-03-22 00:39:51,308 - ERROR - Error processing NVIDIA: 'NewsScraper' object has no attribute 'get_news_articles'
+2025-03-22 00:39:51,309 - INFO - Processing company: Netflix
+2025-03-22 00:39:51,310 - ERROR - Error processing Netflix: 'NewsScraper' object has no attribute 'get_news_articles'
+2025-03-22 00:39:51,310 - INFO - Processing company: Adobe
+2025-03-22 00:39:51,310 - ERROR - Error processing Adobe: 'NewsScraper' object has no attribute 'get_news_articles'
+2025-03-22 00:39:51,310 - INFO - Processing company: IBM
+2025-03-22 00:39:51,310 - ERROR - Error processing IBM: 'NewsScraper' object has no attribute 'get_news_articles'
+2025-03-22 00:39:51,311 - INFO - Batch processing completed. Processed 0 companies in 0.03 seconds
